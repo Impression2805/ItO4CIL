@@ -1,5 +1,5 @@
 # ItO4CIL
-Imitating the Oracle: Towards Calibrated Model for Class Incremental Learning
+Imitating the Oracle: Towards Calibrated Model for Class Incremental Learning (under review)
 
 ### Usage 
 We run the code with torch version: 1.10.0, python version: 3.9.7

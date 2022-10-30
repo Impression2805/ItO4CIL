@@ -1,0 +1,2 @@
+python main.py --dataset cifar100 --init_cls 50 --increment 5 --memory_per_class 10 --model_name ucir --convnet_type 'cosine_resnet32' --device 0
+python main.py --dataset cifar100 --init_cls 50 --increment 5 --memory_per_class 10 --model_name podnet --convnet_type 'cosine_resnet32' --device 0
